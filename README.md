@@ -1,0 +1,1 @@
+# modelscope-videostablization-example
